@@ -1,0 +1,11 @@
+1. Find out how to convert the string "7.13" into the number 7.13
+2. Find out how to turn the string "Learning Ruby" into the string "Lrnng Rb"
+3. Find out how to merge two strings 'Hello', 'World' along with a space in between them?
+4. Find out how to convert the string 'The Ruby Book' to 'The ruby book' ?
+5. Find out how to convert the string 'The Ruby Book' to 'THE RUBY BOOK' ?
+6. Find out how to convert the string 'The Ruby Book is based on Ruby'  to 'The Rails Book is based on Rails' ?
+7. Find out how to convert the string ' Ruby on Rails ' to 'Ruby on Rails' ?
+8. Write a method which will take first name and last name as two arguments and return the fullname.
+9. How to convert 'ruby' to :ruby ?
+10. Write a method which will take a string input and two numbers (start_position, end_position) input and will return the substring.
+   eg: If the string is "Hello World" and start_position is 7, end position is 11 then it will return 'World'.
